@@ -1,6 +1,5 @@
 import Head from "next/head";
 import { Inter } from "next/font/google";
-import Charts from "./assignment4_student";
 
 export default function Home() {
   return (
